@@ -17,7 +17,7 @@ This is a simple Google Chrome extension called "Silly Jokes" that displays a ra
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Technologies Used
 
